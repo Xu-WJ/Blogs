@@ -11,3 +11,8 @@ Collection of some useful knowledges
 
 
 * [拉格朗日乘子法和KKT条件](http://www.cnblogs.com/zhangchaoyang/articles/2726873.html)
+
+
+- [C++ set](https://blog.csdn.net/ac_greener/article/details/77370224)
+
+- [Red & black tree](https://blog.csdn.net/eson_15/article/details/51144079)
