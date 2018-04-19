@@ -17,4 +17,4 @@ Collection of some useful knowledges
 
 - [Red & black tree](https://blog.csdn.net/eson_15/article/details/51144079)
 
--[centOS6系统 glib-2.52.0安装](https://blog.csdn.net/windeal3203/article/details/76608248)
+- [centOS6系统 glib-2.52.0安装](https://blog.csdn.net/windeal3203/article/details/76608248)
