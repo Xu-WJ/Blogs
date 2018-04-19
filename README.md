@@ -16,3 +16,5 @@ Collection of some useful knowledges
 - [C++ set](https://blog.csdn.net/ac_greener/article/details/77370224)
 
 - [Red & black tree](https://blog.csdn.net/eson_15/article/details/51144079)
+
+-[centOS6系统 glib-2.52.0安装](https://blog.csdn.net/windeal3203/article/details/76608248)
